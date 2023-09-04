@@ -1,0 +1,6 @@
+tls:
+  stores:
+    default:
+      defaultCertificate:
+        certFile: /etc/letsencrypt/live/local.sitepilot.io/cert.pem
+        keyFile: /etc/letsencrypt/live/local.sitepilot.io/privkey.pem
